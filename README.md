@@ -2,9 +2,9 @@
 
 I am a computer science student at Texas A&M. I'm pursuing a career in software engineering focused on building systems, backend services, and data-driven applications. I enjoy working on projects that combine strong fundamentals in computer science with practical, real-world use.
 
-Featured projects
+## Featured projects
 
-Fantasy Sport Web Application
+## Fantasy Sport Web Application
 
 https://github.com/zacharywilliams229/FantasyCollegeFootball
 
@@ -25,6 +25,24 @@ Features:
 - Custom scoring
 - Stat updates every thirty minutes
 - Final matchups process at 10:15 a.m. CST and Roster changes push at 10:45 a.m. CST
+
+## Malware Defense Competition
+
+https://github.com/FuhrmannDaniel/csce439-team2-final-defense
+
+- Led development of XGBoost model in a 5-member team building an ensemble malware classification
+system combining raw-byte, packer detection, and EMBER-based feature models.
+- Won first place in evasive malware detection and enhanced detection accuracy from 60% to 90% across
+packed and unpacked executables
+
+## POS System for Fast Food Management
+
+https://github.com/CSCE331-Fall2024/project-3-5c
+
+- Led database design and management on a 5-member team, developing a full-stack point-of-sale system
+through all stages of agile software development.
+- Proficiency with React (frontend), Express (backend), and PostgreSQL (database).
+
 <!--
 **zacharywilliams229/zacharywilliams229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
