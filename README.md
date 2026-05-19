@@ -2,6 +2,8 @@
 
 I am a computer science student at Texas A&M. I'm pursuing a career in software engineering focused on building systems, backend services, and data-driven applications. I enjoy working on projects that combine strong fundamentals in computer science with practical, real-world use.
 
+# STARTING IN JANUARY 2026, this is my full-time GitHub. I will be transitioning away from using my school's GitHub going forward. Select projects from that account are displayed below.
+
 ## Featured projects
 
 ## Fantasy Sport Web Application
